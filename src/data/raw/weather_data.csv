@@ -1,0 +1,81 @@
+city,timestamp,temperature,humidity,pressure,wind_speed,weather_main,weather_description
+New York,2025-02-13 20:41:07,5.3,57,1020,12.35,Clouds,broken clouds
+Los Angeles,2025-02-13 20:41:07,12.96,95,1014,7.72,Rain,moderate rain
+Chicago,2025-02-13 20:41:07,-11.35,70,1036,4.63,Clear,clear sky
+Houston,2025-02-13 20:41:07,11.5,58,1029,7.2,Clouds,overcast clouds
+Phoenix,2025-02-13 20:41:07,16.45,51,1015,2.68,Rain,light rain
+Philadelphia,2025-02-13 20:41:07,3.86,59,1023,8.23,Clear,clear sky
+San Antonio,2025-02-13 20:41:07,7.85,54,1030,5.66,Clouds,overcast clouds
+San Diego,2025-02-13 20:41:07,14.27,91,1017,9.77,Clouds,overcast clouds
+Dallas,2025-02-13 20:41:07,2.48,61,1032,2.06,Clouds,overcast clouds
+San Jose,2025-02-13 20:41:07,13.03,86,1006,5.66,Rain,moderate rain
+Austin,2025-02-13 20:41:07,5.16,57,1031,6.17,Clouds,overcast clouds
+Jacksonville,2025-02-13 20:41:07,17.95,88,1025,4.12,Clouds,broken clouds
+Fort Worth,2025-02-13 20:41:07,1.93,57,1032,3.09,Clear,clear sky
+Columbus,2025-02-13 20:41:07,-4.61,70,1033,9.77,Clear,clear sky
+San Francisco,2025-02-13 20:41:07,12.56,90,1004,7.6,Clouds,overcast clouds
+Charlotte,2025-02-13 20:41:07,9.68,90,1028,2.57,Clouds,scattered clouds
+Indianapolis,2025-02-13 20:41:07,-7.49,69,1037,5.66,Clear,clear sky
+Seattle,2025-02-13 20:41:07,0.81,80,998,3.09,Haze,haze
+Denver,2025-02-13 20:41:07,-2.11,61,1014,0.89,Clouds,broken clouds
+Washington D.C.,2025-02-13 20:41:07,4.12,60,1026,4.02,Clouds,few clouds
+Boston,2025-02-13 20:41:07,3.29,89,1013,6.69,Clouds,broken clouds
+El Paso,2025-02-13 20:41:07,16.26,31,1018,3.09,Clouds,broken clouds
+Nashville,2025-02-13 20:41:07,-1.4,72,1037,6.17,Clouds,broken clouds
+Detroit,2025-02-13 20:41:07,-6.42,75,1030,10.8,Haze,haze
+Oklahoma City,2025-02-13 20:41:07,-2.67,68,1033,4.12,Clouds,scattered clouds
+Portland,2025-02-13 20:41:07,-0.85,72,997,7.15,Snow,snow
+Las Vegas,2025-02-13 20:41:07,9.16,78,1014,4.12,Rain,moderate rain
+Memphis,2025-02-13 20:41:07,-0.35,70,1036,3.09,Clear,clear sky
+Louisville,2025-02-13 20:41:07,-3.26,73,1037,3.6,Clouds,few clouds
+Baltimore,2025-02-13 20:41:07,4.17,57,1025,9.26,Clouds,broken clouds
+Milwaukee,2025-02-13 20:41:07,-12.47,66,1034,5.66,Clear,clear sky
+Albuquerque,2025-02-13 20:41:07,9.13,28,1016,0.0,Clear,clear sky
+Tucson,2025-02-13 20:41:07,18.51,36,1016,2.68,Clouds,overcast clouds
+Fresno,2025-02-13 20:41:07,13.26,76,1008,7.2,Clouds,overcast clouds
+Sacramento,2025-02-13 20:41:07,12.87,87,1003,8.23,Rain,moderate rain
+Mesa,2025-02-13 20:41:07,16.3,54,1015,3.09,Clouds,overcast clouds
+Kansas City,2025-02-13 20:41:07,-7.94,58,1036,3.09,Clear,clear sky
+Atlanta,2025-02-13 20:41:07,5.99,67,1030,6.17,Clear,clear sky
+Omaha,2025-02-13 20:41:07,-11.43,70,1033,6.69,Clouds,few clouds
+Miami,2025-02-13 20:41:07,24.37,88,1024,3.09,Clear,clear sky
+New York,2025-02-13 20:46:42,5.47,55,1020,12.35,Clouds,broken clouds
+Los Angeles,2025-02-13 20:46:42,12.7,95,1014,7.72,Rain,moderate rain
+Chicago,2025-02-13 20:46:42,-11.56,70,1036,4.63,Clear,clear sky
+Houston,2025-02-13 20:46:42,11.5,58,1029,7.2,Clouds,overcast clouds
+Phoenix,2025-02-13 20:46:42,16.44,51,1015,2.68,Rain,light rain
+Philadelphia,2025-02-13 20:46:42,3.76,59,1023,8.23,Clear,clear sky
+San Antonio,2025-02-13 20:46:42,7.72,56,1030,5.66,Clouds,broken clouds
+San Diego,2025-02-13 20:46:42,14.27,91,1017,9.77,Rain,light rain
+Dallas,2025-02-13 20:46:42,2.55,61,1032,2.24,Clouds,overcast clouds
+San Jose,2025-02-13 20:46:42,13.02,86,1006,5.66,Rain,moderate rain
+Austin,2025-02-13 20:46:42,5.16,57,1031,6.17,Clouds,overcast clouds
+Jacksonville,2025-02-13 20:46:42,17.94,88,1025,4.12,Clouds,broken clouds
+Fort Worth,2025-02-13 20:46:42,1.91,57,1032,3.09,Clear,clear sky
+Columbus,2025-02-13 20:46:42,-4.77,71,1033,9.77,Clear,clear sky
+San Francisco,2025-02-13 20:46:42,12.57,90,1004,9.39,Clouds,overcast clouds
+Charlotte,2025-02-13 20:46:42,9.27,91,1028,3.58,Clouds,overcast clouds
+Indianapolis,2025-02-13 20:46:42,-7.51,70,1037,5.66,Clear,clear sky
+Seattle,2025-02-13 20:46:42,0.7,81,998,3.09,Snow,light snow
+Denver,2025-02-13 20:46:42,-2.16,61,1014,0.89,Clouds,broken clouds
+Washington D.C.,2025-02-13 20:46:42,4.06,60,1026,4.92,Clouds,few clouds
+Boston,2025-02-13 20:46:42,3.67,90,1013,6.69,Clouds,broken clouds
+El Paso,2025-02-13 20:46:42,15.94,31,1018,3.09,Clouds,broken clouds
+Nashville,2025-02-13 20:46:42,-1.4,72,1037,6.17,Clouds,broken clouds
+Detroit,2025-02-13 20:46:42,-6.42,75,1030,10.8,Haze,haze
+Oklahoma City,2025-02-13 20:46:42,-2.92,69,1033,4.12,Clouds,scattered clouds
+Portland,2025-02-13 20:46:42,-0.85,72,997,7.15,Snow,snow
+Las Vegas,2025-02-13 20:46:42,9.17,78,1014,4.12,Rain,moderate rain
+Memphis,2025-02-13 20:46:42,-0.4,71,1036,3.09,Clear,clear sky
+Louisville,2025-02-13 20:46:42,-3.26,74,1037,3.6,Clouds,few clouds
+Baltimore,2025-02-13 20:46:42,3.91,57,1025,11.18,Clouds,broken clouds
+Milwaukee,2025-02-13 20:46:42,-12.57,66,1034,5.66,Clear,clear sky
+Albuquerque,2025-02-13 20:46:42,9.04,28,1016,0.0,Clear,clear sky
+Tucson,2025-02-13 20:46:42,18.37,36,1016,2.24,Clouds,overcast clouds
+Fresno,2025-02-13 20:46:42,13.26,76,1008,7.2,Clouds,overcast clouds
+Sacramento,2025-02-13 20:46:42,12.78,88,1003,8.49,Rain,moderate rain
+Mesa,2025-02-13 20:46:42,16.02,56,1015,3.09,Clouds,overcast clouds
+Kansas City,2025-02-13 20:46:42,-7.96,59,1036,3.09,Clear,clear sky
+Atlanta,2025-02-13 20:46:42,5.7,67,1030,6.17,Clear,clear sky
+Omaha,2025-02-13 20:46:42,-11.49,70,1033,6.69,Clouds,few clouds
+Miami,2025-02-13 20:46:42,24.34,88,1024,3.09,Clear,clear sky
