@@ -1,1 +1,9 @@
-weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset,anomaly
+city,timestamp,temperature,humidity,pressure,wind_speed,weather_main,weather_description,anomaly
+San Antonio,2025-02-06 21:43:10,23.28,72,1016,3.6,Clear,clear sky,-1
+Boston,2025-02-06 21:43:10,-1.19,91,1007,2.06,Mist,mist,-1
+Nashville,2025-02-06 21:43:10,9.51,86,1021,4.12,Clouds,overcast clouds,-1
+Milwaukee,2025-02-06 21:43:10,-3.07,37,1018,11.83,Snow,snow,-1
+San Antonio,2025-02-06 21:48:12,23.23,73,1016,3.6,Clear,clear sky,-1
+Boston,2025-02-06 21:48:12,-1.23,91,1007,2.06,Mist,mist,-1
+Nashville,2025-02-06 21:48:12,9.51,86,1021,4.12,Clouds,overcast clouds,-1
+Milwaukee,2025-02-06 21:48:12,-3.08,36,1018,11.83,Snow,snow,-1
